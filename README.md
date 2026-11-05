@@ -41,8 +41,6 @@ Fluxo completo: captura → processamento → transmissão → visualização �
 | **Parte 2** · Prints ou export do dashboard Node-RED | export: [`src/fase3/node-red/flow_cardioia.json`](src/fase3/node-red/flow_cardioia.json) · prints: [Evidências](#-evidências) |
 | **Parte 2** · Relatório (mín. 2 páginas): fluxo MQTT e configuração do dashboard | [`document/fase3_relatorio_parte2.md`](document/fase3_relatorio_parte2.md) |
 | Refletir sobre eficiência, segurança e boas práticas em IoT médico | [relatório Parte 2, seção 5](document/fase3_relatorio_parte2.md#5-eficiência-segurança-e-boas-práticas-em-iot-médico) |
-| Grafana (opcional) | não usado |
-| Ir Além 1 e Ir Além 2 (opcionais) | não entregues nesta fase |
 
 ## 📜 Descrição
 

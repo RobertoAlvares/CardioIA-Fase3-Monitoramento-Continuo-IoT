@@ -149,7 +149,6 @@ ajustando o DHT22 no próprio simulador.
   temperatura ajustada à mão). Os limiares foram definidos pelo autor a partir
   de referências gerais, **sem validação clínica**.
 - O buffer em RAM se perde se o dispositivo desligar. Em hardware real a
-  persistência iria para SPIFFS/microSD — o ponto que o enunciado reconhece como
-  "ir além".
+  persistência iria para SPIFFS/microSD (melhoria prevista para hardware real).
 - O ESP32 não tem relógio de tempo real no simulador; o horário da coleta é
   reconstruído na nuvem a partir de `atraso_s` (ver relatório da Parte 2).
